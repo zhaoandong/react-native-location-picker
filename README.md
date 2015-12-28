@@ -1,6 +1,11 @@
 # react-native-location-picker
+
+##用法
+###npm install react-native-location-picker --save
+##截图
 ![](http://img.chufaba.me/web_assets/github/shot.png)
 
+##实例
 ```javascript
 /**
  * Sample React Native App
