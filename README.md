@@ -1,5 +1,7 @@
 # react-native-location-picker
 
+### 中国境内省市县的选择框(支持IOS)
+
 ##用法
 ###npm install react-native-location-picker --save
 ##截图
